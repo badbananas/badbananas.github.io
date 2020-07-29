@@ -10,11 +10,11 @@
 	<itunes:author>Joey Willenbucher</itunes:author>
 	<item>
 		<title>Tee Time Cover</title>
-		<enclosure>
+		<enclosure 
 			url="https://badbananas.github.io/teetimemix1.m4a"
 			type="audio/x-m4a"
 			length="4819399"
-		</enclosure>
+		/>
 	</item>
 </channel>
 </rss>
