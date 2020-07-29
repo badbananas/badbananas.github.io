@@ -43,5 +43,20 @@
 	</item>
 
 
+	<!--Episode 2: Lloyd-→
+	<item>
+		<title>Lloyd</title>
+		<enclosure url="https://podcast.spaceworm.org/episodes/Lloyd.m4a" type="audio/x-m4a" length="2262603" />
+		<description>
+			<![CDATA[
+				<p>This is a little beat that I made in my dorm room about a year ago that I haven't found anything fun to do with. Open to ideas!</p>
+    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]>
+		</description>
+		<itunes:duration>69</itunes:duration>
+		<pubDate>Wed, 29 Jul 2020 23:30:00 GMT</pubDate>
+	</item>
+
+
 </channel>
 </rss>
