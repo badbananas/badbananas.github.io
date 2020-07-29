@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>Spaceworm Podcast</title>
+	<description>For all things Spaceworm.</description>
+	<language>en-us</language>
+	<itunes:image>https://badbananas.github.io/logo_x2048.jpg</itunes:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:category text="Music" />
+	<itunes:author>Joey Willenbucher</itunes:author>
+	<item>
+		<title>Tee Time Cover</title>
+		<enclosure>
+			url="https://badbananas.github.io/teetimemix1.m4a"
+			type="audio/x-m4a"
+			length="4819399"
+		</enclosure>
+	</item>
+</channel>
+</rss>
