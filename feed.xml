@@ -13,6 +13,7 @@
 		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
 		<description>My cover of Tee Time!</description>
 		<itunes:duration>149</itunes:duration>
+		<pubDate>Wed, 29 Jul 2020 21:30:00 GMT</pubDate>
 	</item>
 </channel>
 </rss>
