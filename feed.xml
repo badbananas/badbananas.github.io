@@ -1,19 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-	<title>Spaceworm Podcast</title>
-	<description>For all things Spaceworm.</description>
+
+	<title>Joey's Music Dump</title>
+	<description>Music things I've made, finished or unfinished. Browse through and see what you like!</description>
 	<language>en-us</language>
-	<itunes:image href="https://podcast.spaceworm.org/logo_x2048.jpg" />
+	<itunes:image href="https://podcast.spaceworm.org/artwork.jpg" />
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:category text="Music" />
 	<itunes:author>Joey Willenbucher</itunes:author>
+	<link>http://spaceworm.org</link>
+	<itunes:owner>
+		<itunes:name>Joey Willenbucher</itunes:name>
+		<itunes:email>mailing@spaceworm.org</itunes:email>
+	</itunes:owner>
+
+
 	<item>
 		<title>Tee Time Cover</title>
 		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
-		<description>My cover of Tee Time!</description>
+		<description>
+			<![CDATA[
+				<p>My cover of Tee Time by Vulfpeck! Made this pretty quickly since I used sampled kick/snare. I still recorded the hihat and crash cymbal live. Most of the keyboard sounds are from the Scarbee Vintage Keys Kontakt instruments.</p>
+				<p>Instrumentation:</p>
+				<ul>
+					<li>Drums (sampled kick/snare, live hihat/crash)</li>
+					<li>Electric Bass</li>
+					<li>Wurlitzer</li>
+					<li>Elec. Grand Piano</li>
+					<li>Synth (high part)</li>
+					<li>Pianet w/ wah pedal</li>
+					<li>Clavinet w/ wah pedal</li>
+					<li>Tambourine</li>
+					<li>Organ</li>
+				</ul>
+				<a href="http://spaceworm.org">spaceworm.org</a>
+			]]
+		</description>
 		<itunes:duration>149</itunes:duration>
 		<pubDate>Wed, 29 Jul 2020 21:30:00 GMT</pubDate>
 	</item>
+
+
 </channel>
 </rss>
