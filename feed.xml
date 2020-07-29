@@ -19,7 +19,7 @@
 	<!--Episode 1: Tee Time Cover-->
 	<item>
 		<title>Tee Time Cover</title>
-		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
+		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.mp3" type="audio/mpeg" length="4766324 bytes" />
 		<description>
 			<![CDATA[
 				<p>My cover of Tee Time by Vulfpeck! Made this pretty quickly since I used sampled kick/snare. I still recorded the hihat and crash cymbal live. Most of the keyboard sounds are from the Scarbee Vintage Keys Kontakt instruments.</p>
@@ -46,7 +46,7 @@
 	<!--Episode 2: Lloyd-->
 	<item>
 		<title>Lloyd</title>
-		<enclosure url="https://podcast.spaceworm.org/episodes/Lloyd.m4a" type="audio/x-m4a" length="2262603" />
+		<enclosure url="https://podcast.spaceworm.org/episodes/Lloyd.mp3" type="audio/mpeg" length="2210085" />
 		<description>
 			<![CDATA[
 				<p>This is a little beat that I made in my dorm room about a year ago that I haven't found anything fun to do with. Open to ideas!</p>
