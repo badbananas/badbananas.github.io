@@ -16,6 +16,7 @@
 	</itunes:owner>
 
 
+	<!--Episode 1: Tee Time Cover-->
 	<item>
 		<title>Tee Time Cover</title>
 		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
@@ -34,7 +35,7 @@
 					<li>Tambourine</li>
 					<li>Organ</li>
 				</ul>
-				<a href="http://spaceworm.org">spaceworm.org</a>
+    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
 			]]>
 		</description>
 		<itunes:duration>149</itunes:duration>
