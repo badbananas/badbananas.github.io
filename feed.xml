@@ -11,6 +11,8 @@
 	<item>
 		<title>Tee Time Cover</title>
 		<enclosure url="https://badbananas.github.io/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
+		<description>My cover of Tee Time!</description>
+		<itunes:duration>149</itunes:duration>
 	</item>
 </channel>
 </rss>
