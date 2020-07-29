@@ -4,7 +4,7 @@
 	<title>Spaceworm Podcast</title>
 	<description>For all things Spaceworm.</description>
 	<language>en-us</language>
-	<itunes:image>https://badbananas.github.io/logo_x2048.jpg</itunes:image>
+	<itunes:image href="https://badbananas.github.io/logo_x2048.jpg" />
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:category text="Music" />
 	<itunes:author>Joey Willenbucher</itunes:author>
