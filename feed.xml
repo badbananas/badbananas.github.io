@@ -4,13 +4,13 @@
 	<title>Spaceworm Podcast</title>
 	<description>For all things Spaceworm.</description>
 	<language>en-us</language>
-	<itunes:image href="https://badbananas.github.io/logo_x2048.jpg" />
+	<itunes:image href="https://podcast.spaceworm.org/logo_x2048.jpg" />
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:category text="Music" />
 	<itunes:author>Joey Willenbucher</itunes:author>
 	<item>
 		<title>Tee Time Cover</title>
-		<enclosure url="https://badbananas.github.io/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
+		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.m4a" type="audio/x-m4a" length="4819399" />
 		<description>My cover of Tee Time!</description>
 		<itunes:duration>149</itunes:duration>
 	</item>
