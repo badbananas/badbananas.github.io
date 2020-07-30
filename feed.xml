@@ -27,7 +27,7 @@
 				<ul>
 					<li>Drums (kick/snare samples from Logic, live hihat/crash)</li>
 					<li>Electric Bass</li>
-					<li>Wurlitzer</li>
+					<li>Wurlitzer w/ chorus</li>
 					<li>Elec. Grand Piano</li>
 					<li>Synth (high part)</li>
 					<li>Pianet w/ wah pedal</li>
@@ -58,6 +58,24 @@
 		<pubDate>Wed, 29 Jul 2020 23:30:00 GMT</pubDate>
 		<guid>https://podcast.spaceworm.org/episodes/Lloyd.mp3</guid>
 	</item>
+
+
+	<!--Episode 3: Mick Richards Music-→
+	<item>
+		<title>Mick Richards Theme Music</title>
+		<enclosure url="https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3" type="audio/mpeg" length="974598" />
+		<description>
+			<![CDATA[
+				<p>This is the theme music to a "short film" school project I did a while back about the life of an aging rocker named Mick Richards. I recorded this short punk rock tune to play over the credits.</p>
+				<p>See the full video <a href="https://youtu.be/ZMb6HeKMGaE">here.</a></p>
+    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]>
+		</description>
+		<itunes:duration>30</itunes:duration>
+		<pubDate>Thu, 30 Jul 2020 19:00:00 GMT</pubDate>
+		<guid>https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3</guid>
+	</item>
+
 
 
 </channel>
