@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
-
-	<title>Joey's Music Dump</title>
-	<description>Music things I've made, either finished or unfinished. Browse through and see what you like!</description>
-	<language>en-us</language>
-	<itunes:image href="https://podcast.spaceworm.org/artwork.jpg" />
-	<itunes:explicit>false</itunes:explicit>
-	<itunes:category text="Music" />
-	<itunes:author>Joey Willenbucher</itunes:author>
-	<link>http://spaceworm.org</link>
-	<itunes:owner>
-		<itunes:name>Joey Willenbucher</itunes:name>
-		<itunes:email>joeyw7000@gmail.com</itunes:email>
-	</itunes:owner>
-
-
-	<!--Episode 1: Tee Time Cover-->
-	<item>
-		<title>Tee Time Cover</title>
-		<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.mp3" type="audio/mpeg" length="4766324 bytes" />
-		<description>
-			<![CDATA[
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		
+		<title>Joey's Music Dump</title>
+		<description>Music things I've made, either finished or unfinished. Browse through and see what you like!</description>
+		<language>en-us</language>
+		<itunes:image href="https://podcast.spaceworm.org/artwork.jpg"/>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Music"/>
+		<itunes:author>Joey Willenbucher</itunes:author>
+		<link>http://spaceworm.org</link>
+		<itunes:owner>
+			<itunes:name>Joey Willenbucher</itunes:name>
+			<itunes:email>joeyw7000@gmail.com</itunes:email>
+		</itunes:owner>
+		
+		
+		<!--Episode 1: Tee Time Cover-->
+		<item>
+			<title>Tee Time Cover</title>
+			<enclosure url="https://podcast.spaceworm.org/episodes/teetimemix1.mp3" type="audio/mpeg" length="4766324 bytes"/>
+			<description><![CDATA[
 				<p>My cover of Tee Time by Vulfpeck! Made this pretty quickly since I used sampled kick/snare. I still recorded the hihat and crash cymbal live. Most of the keyboard sounds are from the Scarbee Vintage Keys Kontakt instruments.</p>
 				<p>Instrumentation:</p>
 				<ul>
@@ -35,48 +34,57 @@
 					<li>Tambourine</li>
 					<li>Organ</li>
 				</ul>
-    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
-			]]>
-		</description>
-		<itunes:duration>149</itunes:duration>
-		<pubDate>Wed, 29 Jul 2020 21:30:00 GMT</pubDate>
-		<guid>https://podcast.spaceworm.org/episodes/teetimemix1.mp3</guid>
-	</item>
-
-
-	<!--Episode 2: Lloyd-->
-	<item>
-		<title>Lloyd</title>
-		<enclosure url="https://podcast.spaceworm.org/episodes/Lloyd.mp3" type="audio/mpeg" length="2210085" />
-		<description>
-			<![CDATA[
+    			<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]></description>
+			<itunes:duration>149</itunes:duration>
+			<pubDate>Wed, 29 Jul 2020 21:30:00 GMT</pubDate>
+			<guid>https://podcast.spaceworm.org/episodes/teetimemix1.mp3</guid>
+		</item>
+		
+		
+		<!--Episode 2: Lloyd-->
+		<item>
+			<title>Lloyd</title>
+			<enclosure url="https://podcast.spaceworm.org/episodes/Lloyd.mp3" type="audio/mpeg" length="2210085"/>
+			<description><![CDATA[
 				<p>This is a little beat that I made in my dorm room about a year ago that I haven't found anything fun to do with. Open to ideas!</p>
-    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
-			]]>
-		</description>
-		<itunes:duration>69</itunes:duration>
-		<pubDate>Wed, 29 Jul 2020 23:30:00 GMT</pubDate>
-		<guid>https://podcast.spaceworm.org/episodes/Lloyd.mp3</guid>
-	</item>
-
-
-	<!--Episode 3: Mick Richards Music-->
-	<item>
-		<title>Mick Richards Theme Music</title>
-		<enclosure url="https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3" type="audio/mpeg" length="974598" />
-		<description>
-			<![CDATA[
+    			<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]></description>
+			<itunes:duration>69</itunes:duration>
+			<pubDate>Wed, 29 Jul 2020 23:30:00 GMT</pubDate>
+			<guid>https://podcast.spaceworm.org/episodes/Lloyd.mp3</guid>
+		</item>
+		
+		
+		<!--Episode 3: Mick Richards Music-->
+		<item>
+			<title>Mick Richards Theme Music</title>
+			<enclosure url="https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3" type="audio/mpeg" length="974598"/>
+			<description><![CDATA[
 				<p>This is the theme music to a "short film" school project I did a while back about the life of an aging rocker named Mick Richards. I recorded this short punk rock tune to play over the credits.</p>
 				<p>See the full video <a href="https://youtu.be/ZMb6HeKMGaE">here.</a></p>
-    				<p><a href="http://spaceworm.org">spaceworm.org</a></p>
-			]]>
-		</description>
-		<itunes:duration>30</itunes:duration>
-		<pubDate>Thu, 30 Jul 2020 19:00:00 GMT</pubDate>
-		<guid>https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3</guid>
-	</item>
-
-
-
-</channel>
+    			<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]></description>
+			<itunes:duration>30</itunes:duration>
+			<pubDate>Thu, 30 Jul 2020 19:00:00 GMT</pubDate>
+			<guid>https://podcast.spaceworm.org/episodes/MickRichardsMusic.mp3</guid>
+		</item>
+		
+		
+		<!--Episode 4: Disco Biscuit Instrumental-->
+		<item>
+			<title>Disco Biscuit Instrumental</title>
+			<enclosure url="https://podcast.spaceworm.org/episodes/DiscoBiscuitInstr.mp3" type="audio/mpeg" length="8039780"/>
+			<description><![CDATA[
+				<p>Instrumental version of my song Disco Biscuit! This was on the second Spaceworm EP called "Second Hand."</p>
+				<p>Original song: <a href="https://youtu.be/xaO03QVcFZI">https://youtu.be/xaO03QVcFZI</a></p>
+    			<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]></description>
+			<itunes:duration>251</itunes:duration>
+			<pubDate>Thu, 30 Jul 2020 20:30:00 GMT</pubDate>
+			<guid>https://podcast.spaceworm.org/episodes/DiscoBiscuitInstr.mp3</guid>
+		</item>
+		
+		
+	</channel>
 </rss>
