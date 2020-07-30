@@ -3,7 +3,7 @@
 <channel>
 
 	<title>Joey's Music Dump</title>
-	<description>Music things I've made, finished or unfinished. Browse through and see what you like!</description>
+	<description>Music things I've made, either finished or unfinished. Browse through and see what you like!</description>
 	<language>en-us</language>
 	<itunes:image href="https://podcast.spaceworm.org/artwork.jpg" />
 	<itunes:explicit>false</itunes:explicit>
