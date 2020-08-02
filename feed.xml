@@ -86,5 +86,19 @@
 		</item>
 		
 		
+		<!--Episode 5: Mr. Responsible Instrumental-->
+		<item>
+			<title>Mr. Responsible Instrumental</title>
+			<enclosure url="https://podcast.spaceworm.org/episodes/MrResponsibleInstr.mp3" type="audio/mpeg" length="4030715"/>
+			<description><![CDATA[
+				<p>Instrumental version of my song Mr. Responsible! From the first Spaceworm EP I did called "The Crane." Only thing about this one is you don't hear the genius lyrics.</p>
+				<p>Original song: <a href="https://youtu.be/mhYRXB5B-FU">https://youtu.be/mhYRXB5B-FU</a></p>
+    			<p><a href="http://spaceworm.org">spaceworm.org</a></p>
+			]]></description>
+			<itunes:duration>126</itunes:duration>
+			<pubDate>Sat, 1 Aug 2020 00:15:00 GMT</pubDate>
+			<guid>https://podcast.spaceworm.org/episodes/MrResponsibleInstr.mp3</guid>
+		</item>
+		
 	</channel>
 </rss>
